@@ -1,0 +1,16 @@
+In addition to the existing features:
+
+1. User can go to the website and fill up the registration form
+2. Users need to login to register (so we can track who has registered and also they can check back and update their reigstration)
+	- login option: existing account (Google, Facebook, ... etc) or creating new account (username/password)
+3. Data collected is stored in the website as list (wordpress list)
+4. Email will be sent out to church coworker for following up (payment/room assignment, ... etc)
+
+Allow users to choose the hotel room:
+
+1. Allow users to choose their own room
+	- map available 
+	- room types availale
+	- system will need to store/display price or each room (or kind of room)
+2. Based on the room selection, the system will show the user the price/fee to pay
+3. The selection and price will need to work with existing wordpress form flow
